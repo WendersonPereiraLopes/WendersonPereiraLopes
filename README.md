@@ -28,7 +28,7 @@
   </a>
 </div>
 
- ![Snake Animation](https://raw.githubusercontent.com/WendersonPereiraLopes/WendersonPereiraLopes/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/WendersonPereiraLopes/WendersonPereiraLopes/blob/output/github-contribution-grid-snake.svg?raw=true" alt="GitHub Snake" />
 
 
 
