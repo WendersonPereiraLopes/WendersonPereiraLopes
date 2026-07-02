@@ -20,6 +20,9 @@
   <a href='https://www.instagram.com/lopeswenderson.engsoft/' target='_blank'>
       <img src='https://img.shields.io/badge/Instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white'>
   </a>
+  <a href='' target='_blank'>
+      <img src='https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white'>
+  </a>
   <a href='mailto:contato@wendersonlopes.softeng@gmail.com' target='_blank'>
       <img src='https://img.shields.io/badge/Gmail-%E4405FFF?&style=for-the-badge&logo=gmail&logoColor=white'>
   </a>
