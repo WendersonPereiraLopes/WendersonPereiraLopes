@@ -34,7 +34,7 @@ Acredito que a educação é a chave para a inovação, e é por isso que estou 
 
 ## 🤖 Tecnologias & Linguagens
 <div style='display:inline-block'><br>
-  <img align='center' alt='wenderson-HTML' height='40' weight='40' src='https://skillicons.dev/icons?i=js,html,css,python'>
+  <img align='center' alt='wenderson-HTML' height='40' weight='40' src='https://skillicons.dev/icons?i=js,html,css,python,git'>
 </div>
 
 ---
