@@ -28,6 +28,8 @@
   </a>
 </div>
 
+ ![Snake Animation](https://raw.githubusercontent.com/WendersonPereiraLopes/WendersonPereiraLopes/output/github-contribution-grid-snake.svg)
+
 
 
 
