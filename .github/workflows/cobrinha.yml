@@ -1,7 +1,8 @@
 name: Generate Datas
 
 on:
-  schedule: # execute every 5 minutes
+  schedule:
+    # Executa a cada 5 minutos
     - cron: "*/5 * * * *"
   workflow_dispatch:
 
@@ -9,15 +10,25 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+    
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
+      # Checkout do repositório (boa prática adicionada para garantir que a Action tenha contexto)
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Generation of the snake animation
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: WendersonPereiraLopes
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      # Deploy dos arquivos gerados para a branch 'output'
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
