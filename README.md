@@ -1,11 +1,11 @@
 # 🧑‍💻 Wenderson Pereira Lopes
 
 **`Graduando em Engenharia de Software`**
-
-Atualmente, estou cursando o **Bacharelado em Engenharia de Software** na **Universidade Uninter**. Minha paixão pela tecnologia me motiva a mergulhar fundo nos fundamentos da computação, desde a lógica de programação até a engenharia de requisitos e gestão de projetos.
-
-Acredito que a educação é a chave para a inovação, e é por isso que estou dedicando meu tempo a entender não apenas *como* as coisas funcionam, mas *porquê* elas são construídas de determinadas maneiras.
-
+<p align='justify'>
+   Atualmente, estou cursando o <b>Bacharelado em Engenharia de Software</b> na Universidade Uninter. Minha paixão pela tecnologia      me motiva a mergulhar fundo nos fundamentos da computação, desde a lógica de programação até a engenharia de requisitos e     gestão de projetos.
+      
+   Acredito que a educação é a chave para a inovação, e é por isso que estou dedicando meu tempo a entender não apenas *como*    as coisas funcionam, mas *porquê* elas são construídas de determinadas maneiras.
+</p>
 
 <div style='display:inline-block'>
    <a href="https://github.com/WendersonPereiraLopes?tab=repositories&sort=stargazers">
