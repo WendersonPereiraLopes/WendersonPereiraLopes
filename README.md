@@ -34,7 +34,7 @@
 
 ## 🤖 Tecnologias & Linguagens
 <div style='display:inline-block'><br>
-  <img align='center' alt='wenderson-HTML' height='40' weight='40' src='https://skillicons.dev/icons?i=js,html,css,python,git,github,linux,mysql'>
+  <img align='center' alt='wenderson-HTML' height='40' weight='40' src='https://skillicons.dev/icons?i=js,html,css,python,git,github,mint,mysql,sqlite,vscode'>
 </div>
 
 ---
