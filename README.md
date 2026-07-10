@@ -1,6 +1,16 @@
 # 🧑‍💻 Wenderson Pereira Lopes | [![Estágio](https://img.shields.io/badge/Procurando_Estágio-Ativo-00B4D8?style=for-the-badge&logo=rocket&logoColor=white)]()
-
 **`Estudante de Engenharia de Software | 4º Período`**
+
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 15px 0;">
+  <img src="https://img.shields.io/badge/Comunicação-0056D2?style=for-the-badge&logo=openai&logoColor=white" alt="Comunicação">
+  <img src="https://img.shields.io/badge/Trabalho_em_Equipe-6A1B9A?style=for-the-badge&logo=groups&logoColor=white" alt="Trabalho em Equipe">
+  <img src="https://img.shields.io/badge/Proatividade-D32F2F?style=for-the-badge&logo=rocket&logoColor=white" alt="Proatividade">
+  <img src="https://img.shields.io/badge/Organização-00897B?style=for-the-badge&logo=task&logoColor=white" alt="Organização">
+  <img src="https://img.shields.io/badge/Scrum-009688?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Metodologia Scrum">
+  <img src="https://img.shields.io/badge/Inglês_Técnico-FF6F00?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Inglês Técnico">
+  <img src="https://img.shields.io/badge/Disponível_para_Estágio_(30h)-2E7D32?style=for-the-badge&logo=clock&logoColor=white" alt="Disponível para Estágio">
+</div>
 
 <p align='justify'>
 📍 Buscando <strong>primeira oportunidade de estágio</strong> em Desenvolvimento Backend (Python/JS) ou Análise de Dados.
@@ -34,9 +44,21 @@
 
 ---
 
-## 🤖 Tecnologias & Linguagens
-<div style='display:inline-block'><br>
-  <img align='center' alt='wenderson-HTML' height='40' weight='40' src='https://skillicons.dev/icons?i=js,html,css,python,md,git,github,mint,mysql,sqlite,vscode'>
+## 🛠️ Habilidades Técnicas
+
+### Linguagens
+<div style='display:inline-block'>
+  <img align='center' alt='Linguagens_de_programação' height='40' weight='40' src='https://skillicons.dev/icons?i=js,html,css,python,md'>
+</div>
+
+### Banco de Dados
+<div style='display:inline-block'>
+  <img align='center' alt='Banco_de_dados' height='40' weight='40' src='https://skillicons.dev/icons?i=sqlite,mysql'>
+</div>
+
+### Ferramentas
+<div style='display:inline-block'>
+  <img align='center' alt='Ferramentas_de_desenvolvimento' height='40' weight='40' src='https://skillicons.dev/icons?i=git,github,vscode,mint'>
 </div>
 
 ---
