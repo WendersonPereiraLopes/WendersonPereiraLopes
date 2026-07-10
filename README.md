@@ -73,7 +73,14 @@
   <a href='mailto:wendersonlopes.softeng@gmail.com' target='_blank'>
       <img src='https://img.shields.io/badge/Gmail-%E4405FFF?&style=for-the-badge&logo=gmail&logoColor=white'>
   </a>
+   <a href="link_para_curriculo.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Currículo-PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Baixar Currículo PDF">
+  </a>
+   <a href="link_do_portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-Site-0077B5?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Acessar Portfólio">
+  </a>
 </div>
+
 
 ![Snake Animation](https://raw.githubusercontent.com/WendersonPereiraLopes/WendersonPereiraLopes/output/github-contribution-grid-snake.svg?v=4)
 
