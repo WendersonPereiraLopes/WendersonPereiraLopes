@@ -36,7 +36,7 @@
 
 ## 📈 Estátisticas
 <div>
-  <a href='https://github/WendersonPereiraLopes'>
+  <a href='https://github.com/WendersonPereiraLopes'>
       <img height='180em' src='https://github-stats-extended.vercel.app/api?username=WendersonPereiraLopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br&custom_title=Estátisticas%20GitHub%20Wenderson%20Pereira%20Lopes'>
       <img height='180em' src='https://github-stats-extended.vercel.app/api/top-langs?username=WendersonPereiraLopes&layout=compact&theme=dark&custom_title=Tecnologias&langs_count=4'>
   </a> 
