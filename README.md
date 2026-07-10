@@ -1,10 +1,12 @@
-# 🧑‍💻 Wenderson Pereira Lopes
+# 🧑‍💻 Wenderson Pereira Lopes | [![Estágio](https://img.shields.io/badge/Procurando_Estágio-Ativo-00B4D8?style=for-the-badge&logo=rocket&logoColor=white)]()
 
-**`Graduando em Engenharia de Software`**
+**`Estudante de Engenharia de Software | 4º Período`**
+
 <p align='justify'>
-   Atualmente, estou cursando o <b>Bacharelado em Engenharia de Software</b> na Universidade Uninter. Minha paixão pela tecnologia      me motiva a mergulhar fundo nos fundamentos da computação, desde a lógica de programação até a engenharia de requisitos e     gestão de projetos.
-      
-   Acredito que a educação é a chave para a inovação, e é por isso que estou dedicando meu tempo a entender não apenas *como*    as coisas funcionam, mas *porquê* elas são construídas de determinadas maneiras.
+📍 Buscando <strong>primeira oportunidade de estágio</strong> em Desenvolvimento Backend (Python/JS) ou Análise de Dados.
+</p>
+<p align='justify'>
+  Atualmente foco em projetos acadêmicos que envolvem <strong>criação de APIs REST</strong> e <strong>modelagem de bancos de dados relacionais</strong>. Tenho facilidade com lógica de programação e estou sempre buscando aplicar conceitos de engenharia de software em pequenos projetos práticos. 
 </p>
 
 <div style='display:inline-block'>
@@ -46,7 +48,7 @@
   <a href='https://www.linkedin.com/in/wenderson-lopes-194444359/' target='_blank'>
       <img src='https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white'>
   </a>
-  <a href='mailto:contato@wendersonlopes.softeng@gmail.com' target='_blank'>
+  <a href='mailto:wendersonlopes.softeng@gmail.com' target='_blank'>
       <img src='https://img.shields.io/badge/Gmail-%E4405FFF?&style=for-the-badge&logo=gmail&logoColor=white'>
   </a>
 </div>
