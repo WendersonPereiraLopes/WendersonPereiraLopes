@@ -1,7 +1,6 @@
 # 🧑‍💻 Wenderson Pereira Lopes | [![Estágio](https://img.shields.io/badge/Procurando_Estágio-Ativo-00B4D8?style=for-the-badge&logo=rocket&logoColor=white)]()
 **`Estudante de Engenharia de Software | 4º Período`**
 
-
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 15px 0;">
   <img src="https://img.shields.io/badge/Comunicação-0056D2?style=for-the-badge&logo=openai&logoColor=white" alt="Comunicação">
   <img src="https://img.shields.io/badge/Trabalho_em_Equipe-6A1B9A?style=for-the-badge&logo=groups&logoColor=white" alt="Trabalho em Equipe">
@@ -81,10 +80,4 @@
   </a>
 </div>
 
-
 ![Snake Animation](https://raw.githubusercontent.com/WendersonPereiraLopes/WendersonPereiraLopes/output/github-contribution-grid-snake.svg?v=4)
-
-
-
-
-
