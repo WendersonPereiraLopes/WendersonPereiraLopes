@@ -11,8 +11,8 @@
   <img src="https://img.shields.io/badge/Disponível_para_Estágio_(30h)-2E7D32?style=for-the-badge&logo=clock&logoColor=white" alt="Disponível para Estágio">
 </div>
 
-<p align='justify'>
-📍 Buscando <strong>primeira oportunidade de estágio</strong> em Desenvolvimento Backend (Python/JS) ou Análise de Dados.
+<p align='justify'><br>
+Em busca da <strong>primeira oportunidade de estágio</strong> em Desenvolvimento Backend (Python/JS) ou Análise de Dados.
 </p>
 <p align='justify'>
   Atualmente foco em projetos acadêmicos que envolvem <strong>criação de APIs REST</strong> e <strong>modelagem de bancos de dados relacionais</strong>. Tenho facilidade com lógica de programação e estou sempre buscando aplicar conceitos de engenharia de software em pequenos projetos práticos. 
