@@ -18,26 +18,11 @@ Em busca da <strong>primeira oportunidade de estágio</strong> em Desenvolviment
   Atualmente foco em projetos acadêmicos que envolvem <strong>criação de APIs REST</strong> e <strong>modelagem de bancos de dados relacionais</strong>. Tenho facilidade com lógica de programação e estou sempre buscando aplicar conceitos de engenharia de software em pequenos projetos práticos. 
 </p>
 
-<div style='display:inline-block'>
-   <a href="https://github.com/WendersonPereiraLopes?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/WendersonPereiraLopes?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-  <a href ='https://github.com/WendersonPereiraLopes?tab=followers'>
-        <img    
-            alt="Seguidores" 
-            title="Me siga no GitHub"
-            src='https://custom-icon-badges.demolab.com/github/followers/WendersonPereiraLopes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white'>
-  </a>
-</div>
-
 ## 📈 Estátisticas
 <div>
   <a href='https://github.com/WendersonPereiraLopes'>
       <img height='180em' src='https://github-stats-extended.vercel.app/api?username=WendersonPereiraLopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br&custom_title=Estátisticas%20GitHub%20Wenderson%20Pereira%20Lopes'>
-      <img height='180em' src='https://github-stats-extended.vercel.app/api/top-langs?username=WendersonPereiraLopes&layout=compact&theme=dark&custom_title=Tecnologias&langs_count=4'>
+      <img height='180em' src='https://github-stats-extended.vercel.app/api/top-langs?username=WendersonPereiraLopes&layout=compact&theme=dark&custom_title=Tecnologias&langs_count=5'>
   </a> 
 </div>
 
@@ -79,5 +64,3 @@ Em busca da <strong>primeira oportunidade de estágio</strong> em Desenvolviment
     <img src="https://img.shields.io/badge/Portfólio-Site-0077B5?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Acessar Portfólio">
   </a>
 </div>
-
-![Snake Animation](https://raw.githubusercontent.com/WendersonPereiraLopes/WendersonPereiraLopes/output/github-contribution-grid-snake.svg?v=4)
